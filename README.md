@@ -1,46 +1,24 @@
-<h1 align="center">Hi 👋, I'm Sumit Kumar Munda</h1>
-<h3 align="center">An aspiring full stack developer in MERN from India</h3>
+<h2>Hi, I'm Sumit Kumar Munda 🚀</h2>
+<p>Full-Stack Developer focused on building web applications using JavaScript, TypeScript, React.js and Node.js.</p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sumit-munda&label=Profile%20views&color=0e75b6&style=flat" alt="sumit-munda" /> </p>
+<h3>Featured Projects</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sumit-munda" alt="sumit-munda" /></a> </p>
+<h4>The Paperless Dock</h4>
+<p>A digital bookstore and reading platform for discovering, purchasing and accessing digital books.</p>
 
-<p align="left"> <a href="https://twitter.com/sumitkmunda_dev" target="blank"><img src="https://img.shields.io/twitter/follow/sumitkmunda_dev?logo=twitter&style=for-the-badge" alt="sumitkmunda_dev" /></a> </p>
+<h4>The Ecom City</h4>
+<p>A full-stack e-commerce platform featuring product discovery, online payments, order management and an administrative dashboard.</p>
 
-- 🔭 I’m currently working on [ThePaperlessDock — a digital reading platform](https://github.com/sumit-munda/paperless-dock)
+<h3>Technical Skills</h3>
 
-- 🌱 I’m currently learning **Deployment, Docker & AWS basics**
+- <strong>Languages:</strong> JavaScript, TypeScript
+- <strong>Frontend:</strong> React.js, Redux Toolkit, RTK Query, HTML, CSS, Sass
+- <strong>Backend:</strong> Node.js, Express.js, REST APIs
+- <strong>Databases:</strong> MongoDB, PostgreSQL, MySQL, Redis
+- <strong>Tools & Infrastructure:</strong> Git, Docker, AWS, Nginx, Postman
+- <strong>Integrations:</strong> Firebase, Stripe, Razorpay, Cloudinary, Cloudflare R2
 
-- 👯 I’m looking to collaborate on [Open source frontend & MERN projects](https://github.com/sumit-munda)
+- <h3>Connect</h3>
 
-- 🤝 I’m looking for help with [Architecture, scalability & best practices for ThePaperlessDock](https://github.com/sumit-munda/paperless-dock)
-
-- 👨‍💻 All of my projects are available on [https://github.com/sumit-munda](https://github.com/sumit-munda)
-
-- 📝 I occasionally share learnings on [https://www.linkedin.com/in/sumitmunda/](https://www.linkedin.com/in/sumitmunda/)
-
-- 💬 Ask me about **React, modern full stack workflows, and building projects from scratch**
-
-- 📫 How to reach me **sumitkmunda.563@gmail.com**
-
-- 📄 Know about my experiences [https://x.com/sumitkmunda_dev](https://x.com/sumitkmunda_dev)
-
-- ⚡ Fun fact **I learn best by building real projects, not tutorials**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/sumitkmunda_dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sumitkmunda_dev" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/sumitmunda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sumitmunda" height="30" width="40" /></a>
-<a href="https://dribbble.com/big_bug_06" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="big_bug_06" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/sumit_munda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sumit_munda" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://canvasjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/Hardik0307/Hardik0307/master/assets/canvasjs-charts.svg" alt="canvasjs" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.qt.io/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="qt" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sumit-munda&show_icons=true&locale=en&layout=compact" alt="sumit-munda" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sumit-munda&show_icons=true&locale=en" alt="sumit-munda" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sumit-munda&" alt="sumit-munda" /></p>
-
+- <strong>LinkedIn:</strong> https://www.linkedin.com/in/sumitmunda/
+- <strong>Email:</strong> sumitkmunda.563@gmail.com
